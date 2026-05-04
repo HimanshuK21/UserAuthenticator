@@ -39,5 +39,3 @@ Note: Confirm exact paths in the code; these are common defaults and may differ.
 **Troubleshooting**
 - If startup fails due to DB connectivity, verify the connection string and credentials.
 - For JWT issues, ensure the `JWT_SECRET` used by the UI and backend match the expected format.
-
-If you'd like, I can add example `application.properties`, Postman collection, or update the README with exact endpoints after scanning the controller classes.
