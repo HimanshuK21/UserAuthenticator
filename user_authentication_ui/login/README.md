@@ -38,4 +38,3 @@ Basic Login / Sign-up UI for the authentication service that receives a JWT from
 - If you get CORS errors, ensure the backend allows requests from the UI origin.
 - Verify `VITE_API_URL` points to a running backend.
 
-If you want, I can also add example environment files and a demo screenshot.
